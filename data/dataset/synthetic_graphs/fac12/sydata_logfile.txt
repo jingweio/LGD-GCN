@@ -1,0 +1,15 @@
+rd_sd=895878
+nb_ins=1000
+nb_class=16
+same_thresh=0.055
+diff_thresh=3e-05
+factor_k=12
+
+
+min_nbs=22.0
+max_nbs=62.0
+mean_nbs=40.346
+is_connected=True
+trn/val/tst=600/200/200
+
+
