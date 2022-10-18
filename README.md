@@ -13,3 +13,6 @@ Code for TNNLS 2022 paper ["Learning Disentangled Graph Convolutional Networks L
   publisher={IEEE}
 }
 ```
+
+## References
+[1] Ma, Jianxin, et al. "Disentangled graph convolutional networks." International conference on machine learning. PMLR, 2019.
