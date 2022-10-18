@@ -16,3 +16,10 @@ Code for TNNLS 2022 paper ["Learning Disentangled Graph Convolutional Networks L
 
 ## References
 [1] Ma, Jianxin, et al. "Disentangled graph convolutional networks." International conference on machine learning. PMLR, 2019.
+
+
+## References
+	[1] Paszke, Adam, et al. "PyTorch: An Imperative Style, High-Performance Deep Learning Library." Advances in Neural Information Processing Systems 32 (2019): 8026-8037.
+    [2] Ribeiro, Leonardo FR, Pedro HP Saverese, and Daniel R. Figueiredo. "struc2vec: Learning node representations from structural identity." Proceedings of the 23rd ACM SIGKDD international conference on knowledge discovery and data mining. 2017.
+    [3] Yifan Hou, Jian Zhang, James Cheng, Kaili Ma, Richard TB Ma, Hongzhi Chen, and Ming-Chang Yang. 2019. Measuring and improving the use of graph information in graph neural networks. In ICLR
+    [4] Peel, Leto, Jean-Charles Delvenne, and Renaud Lambiotte. "Multiscale mixing patterns in networks." Proceedings of the National Academy of Sciences 115.16 (2018): 4057-4062.
