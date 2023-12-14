@@ -9,7 +9,7 @@ Graph Convolutional Networks (GCNs) emerge as the most successful learning model
 
 
 ## References
-	[1] Ma, Jianxin, et al. "Disentangled graph convolutional networks." International conference on machine learning. PMLR, 2019.
+	[1] Ma, Jianxin, et al. "Disentangled graph convolutional networks." ICML, 2019.
 
 ## Citation
 ```
